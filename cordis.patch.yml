@@ -1,0 +1,4 @@
+# Bundle patch for dsh-hust-langya-boot.
+- insert:
+    - id: boot-hust-langya
+      name: dsh-hust-langya-boot
