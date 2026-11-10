@@ -1,7 +1,7 @@
 {
   "name": "dsh-hust-langya-boot",
   "version": "1.0.0",
-  "description": "华中科技大学狼牙战队 (HUST LANGYA) RoboMaster 550C 战术开机动画 DSH 插件：定制狼牙机甲徽标激光扫描 + 22 秒全流程工程终端与全息投影，支持实时引擎与 1080P 60fps 视频模式。",
+  "description": "华中科技大学狼牙战队 (HUST LANGYA) RoboMaster 战术全息开机动画 DSH 插件：借鉴网络爆火 550C DSH 开机动画与《红色警戒》主页全息投影动画，定制狼牙战队机甲徽标激光扫描 + 7 大兵种名场面 + 四大研发组别 14 个工程窗口。",
   "type": "module",
   "main": "./lib/index.js",
   "exports": {
@@ -94,7 +94,7 @@
       "id": "boot-splash",
       "kind": "ui",
       "invocation": "Boot the profile's Web GUI and inspect document.querySelector('.dshrm-langya-host')",
-      "expected": "The host half's first frame covers the shell while parsing so DSH's native boot card never flashes; the client half mounts the RoboMaster 550C tactical boot animation and plays to completion."
+      "expected": "The host half's first frame covers the shell while parsing so DSH's native boot card never flashes; the client half mounts the RoboMaster tactical holographic boot animation and plays to completion."
     },
     "evidence": {
       "install": null,
